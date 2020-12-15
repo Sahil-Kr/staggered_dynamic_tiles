@@ -1,3 +1,3 @@
-# ask_pankhuri_task
+# Staggered Tile 
 
-interview task at Pankhuri
+Sample code for staggered grid tiles that adapts the child size.
